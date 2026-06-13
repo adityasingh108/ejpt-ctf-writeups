@@ -1,4 +1,4 @@
-# Host & Network Penetration Testing: System-Host Based Attacks CTF 2 Walkthrough
+#  System-Host Based Attacks CTF 2 Walkthrough
 
 ## Overview
 
