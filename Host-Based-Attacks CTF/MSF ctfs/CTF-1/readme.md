@@ -211,11 +211,7 @@ With SYSTEM privileges obtained, I revisited the Windows configuration directori
 
 While enumerating the configuration files and subdirectories, the second flag was discovered.
 
-### Flag 2
 
-```text
-<flag_value>
-```
 
 ### Screenshot
 
