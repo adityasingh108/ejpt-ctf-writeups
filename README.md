@@ -7,20 +7,20 @@ A curated collection of eJPT preparation labs, walkthroughs, privilege escalatio
 ### Host-Based Attacks CTF
 
 #### Exploitation
-- [CTF-1](Host-Based-Attacks%20CTF/Exploitation/CTF-1/README.md)
-- [CTF-2](Host-Based-Attacks%20CTF/Exploitation/CTF-2/README.md)
-- [CTF-3](Host-Based-Attacks%20CTF/Exploitation/CTF-3/Readme.md)
+- [Host & Network Penetration Testing: Exploitation CTF 1](Host-Based-Attacks%20CTF/Exploitation/CTF-1/README.md)
+- [Host & Network Penetration Testing: Exploitation CTF 2](Host-Based-Attacks%20CTF/Exploitation/CTF-2/README.md)
+- [Host & Network Penetration Testing: Exploitation CTF 3](Host-Based-Attacks%20CTF/Exploitation/CTF-3/Readme.md)
 
 #### Metasploit Framework (MSF)
-- [CTF-1](Host-Based-Attacks%20CTF/MSF%20ctfs/CTF-1/readme.md)
-- [CTF-2](Host-Based-Attacks%20CTF/MSF%20ctfs/CTF-2/readme.md)
+- [Host & Network Penetration Testing: The Metasploit Framework CTF 1](Host-Based-Attacks%20CTF/MSF%20ctfs/CTF-1/readme.md)
+- [Host & Network Penetration Testing: The Metasploit Framework CTF 2](Host-Based-Attacks%20CTF/MSF%20ctfs/CTF-2/readme.md)
 
 #### Post-Exploitation
-- [CTF1](Host-Based-Attacks%20CTF/Post-Exploitation/CTF1/README.md)
+- [Host & Network Penetration Testing: Post-Exploitation CTF 1](Host-Based-Attacks%20CTF/Post-Exploitation/CTF1/README.md)
 
 #### System Host-Based Attacks
-- [CTF-01](Host-Based-Attacks%20CTF/System-Host-based-Attacks-%20CTF-01/README.md)
-- [CTF-02](Host-Based-Attacks%20CTF/System-Host-Based-Attacks-CTF-02/README.md)
+- [System-Host Based Attacks CTF 1](Host-Based-Attacks%20CTF/System-Host-based-Attacks-%20CTF-01/README.md)
+- [System-Host Based Attacks CTF 2](Host-Based-Attacks%20CTF/System-Host-Based-Attacks-CTF-02/README.md)
 
 ### Information Gathering
 - [Writeup](Information-Gathering/README.md)
