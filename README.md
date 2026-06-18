@@ -23,13 +23,13 @@ A curated collection of eJPT preparation labs, walkthroughs, privilege escalatio
 - [System-Host Based Attacks CTF 2](Host-Based-Attacks%20CTF/System-Host-Based-Attacks-CTF-02/README.md)
 
 ### Information Gathering
-- [Writeup](Information-Gathering/README.md)
+- [Assessment Methodologies: Information Gathering CTF 1](Information-Gathering/README.md)
 
 ### Network
-- [Writeup](Network/README.md)
+- [Network-Based Attacks CTF 1](Network/README.md)
 
 ### Web Application CTF
-- [Writeup](Web%20Application%20%20CTF/readme.md)
+- [Web Application Penetration Testing CTF 1](Web%20Application%20%20CTF/readme.md)
 
 ---
 
