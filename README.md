@@ -17,6 +17,7 @@ A curated collection of eJPT preparation labs, walkthroughs, privilege escalatio
 
 #### Post-Exploitation
 - [Host & Network Penetration Testing: Post-Exploitation CTF 1](Host-Based-Attacks%20CTF/Post-Exploitation/CTF1/README.md)
+- [Host & Network Penetration Testing: Post-Exploitation CTF 2](Host-Based-Attacks%20CTF/Post-Exploitation/CTF2/readme.md)
 
 #### System Host-Based Attacks
 - [System-Host Based Attacks CTF 1](Host-Based-Attacks%20CTF/System-Host-based-Attacks-%20CTF-01/README.md)
